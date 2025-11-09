@@ -1,0 +1,28 @@
+# Backup folder
+backup/*
+!backup/.gitkeep
+
+# DankMaterialShell auto-generated
+configs/DankMaterialShell/plugins/
+configs/kitty/dank-*.conf
+configs/gtk-*/
+
+# Oh My Zsh
+.oh-my-zsh/
+
+# Temporary
+*.tmp
+*.swp
+*.swo
+*~
+*.backup.*
+*.log
+
+# OS specific
+.DS_Store
+Thumbs.db
+
+# Sensitive
+*.key
+*.pem
+*_secret*

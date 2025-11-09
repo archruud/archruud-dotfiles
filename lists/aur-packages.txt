@@ -1,0 +1,7 @@
+blesh
+dms-shell-bin
+google-breakpad
+librewolf-bin
+pwvucontrol
+yay
+yay-debug
